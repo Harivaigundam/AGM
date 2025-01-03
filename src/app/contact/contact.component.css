@@ -1,0 +1,23 @@
+.hero {
+    background-image: url('../../../assets/hero-bg.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+  }
+  
+  .hero h2 {
+    font-weight: bold;
+  }
+
+  /* Contact Form */
+  .contact-form-section {
+    background-color: #f8f9fa;
+  }
+  
+  /* Location Section */
+  .location-section {
+    background-color: #333;
+    color: #fff;
+  }
+
+  
