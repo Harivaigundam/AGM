@@ -1,3 +1,12 @@
+.navigate a{
+  text-decoration: none;
+}
+
+.navigate a:hover{
+  background-color: #ccc;
+}
+
+
 .hero {
     background-image: url('../../../assets/hero-bg.jpeg');
     background-size: cover;
